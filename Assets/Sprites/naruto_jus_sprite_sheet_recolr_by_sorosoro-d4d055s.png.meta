@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 922c8d7658080e44889a0ba2c64f9e93
+timeCreated: 1451252317
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_0
+    21300002: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_1
+    21300004: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_2
+    21300006: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_3
+    21300008: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_4
+    21300010: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_5
+    21300012: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_6
+    21300014: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_7
+    21300016: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_8
+    21300018: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_9
+    21300020: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 714
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 702
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 13}
+        - {x: 16.5, y: 21}
+        - {x: 7.5, y: 26}
+        - {x: -9.5, y: 26}
+        - {x: -25.5, y: 17}
+        - {x: -25.5, y: -13}
+        - {x: -17.5, y: -27}
+        - {x: 13.5, y: -27}
+        - {x: 21.5, y: -14}
+        - {x: 25.5, y: -7}
+        - {x: 26.5, y: 1}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 693
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 32}
+        - {x: -37, y: 24}
+        - {x: -37, y: -14}
+        - {x: -30, y: -30}
+        - {x: 26, y: -30}
+        - {x: 37, y: -13}
+        - {x: 37, y: 18}
+        - {x: 25, y: 32}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 694
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 31}
+        - {x: -27.5, y: 31}
+        - {x: -32.5, y: 27}
+        - {x: -32.5, y: -21}
+        - {x: -30.5, y: -31}
+        - {x: -1.5, y: -31}
+        - {x: 19.5, y: -27}
+        - {x: 36.5, y: -20}
+        - {x: 37.5, y: -18}
+        - {x: 37.5, y: 20}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 698
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 29.5}
+        - {x: -34, y: 10.5}
+        - {x: -34, y: -12.5}
+        - {x: -29, y: -21.5}
+        - {x: -20, y: -29.5}
+        - {x: 2, y: -29.5}
+        - {x: 37, y: -11.5}
+        - {x: 37, y: 12.5}
+        - {x: 3, y: 29.5}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 701
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 27}
+        - {x: -35.5, y: 4}
+        - {x: -35.5, y: -15}
+        - {x: -32.5, y: -27}
+        - {x: 34.5, y: -27}
+        - {x: 34.5, y: 18}
+        - {x: 14.5, y: 27}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 720
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1094
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 10.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -23.5, y: -14.5}
+        - {x: -22.5, y: -16.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 2.5}
+        - {x: 20.5, y: 10.5}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1096
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -16.5}
+        - {x: 33.5, y: -16.5}
+        - {x: 33.5, y: 1.5}
+        - {x: 25.5, y: 14.5}
+        - {x: 23.5, y: 16.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -37.5, y: 14.5}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1096
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 20.5}
+        - {x: -50, y: 9.5}
+        - {x: -50, y: -25.5}
+        - {x: 50, y: -25.5}
+        - {x: 50, y: 5.5}
+        - {x: 25, y: 20.5}
+    - name: naruto_jus_sprite_sheet_recolr_by_sorosoro-d4d055s_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1097
+        width: 116
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 19}
+        - {x: -56, y: -8}
+        - {x: -56, y: -14}
+        - {x: -53, y: -19}
+        - {x: 53, y: -19}
+        - {x: 53, y: 16}
+        - {x: 47, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

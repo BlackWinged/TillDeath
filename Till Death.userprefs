@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Till Death.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\fallingEnemyHandler.cs">
+    <Files>
+      <File FileName="Assets\fallingEnemyHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\smashHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\flightControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
