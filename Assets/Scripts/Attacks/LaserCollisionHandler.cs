@@ -21,6 +21,11 @@ public class LaserCollisionHandler : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         positionOld = transform.position;
+
+        //Vector3 direction = player.position - transform.position;
+        //GetComponent<Rigidbody2D>().drag = 0;
+        //GetComponent<Rigidbody2D>().AddForce(direction * forceAdd);
+        //GetComponent<Rigidbody2D>().velocity = Vector3.ClampMagnitude(GetComponent<Rigidbody2D>().velocity, maxVelocity);
     }
 
     // Update is called once per frame
@@ -34,10 +39,10 @@ public class LaserCollisionHandler : MonoBehaviour
         }
         positionOld = transform.position;
 
-        Vector3 direction = player.position - transform.position;
-        GetComponent<Rigidbody2D>().drag = 0;
-        GetComponent<Rigidbody2D>().AddForce(direction * forceAdd);
-        GetComponent<Rigidbody2D>().velocity = Vector3.ClampMagnitude(GetComponent<Rigidbody2D>().velocity, maxVelocity);
+        //Vector3 direction = player.position - transform.position;
+        //GetComponent<Rigidbody2D>().drag = 0;
+        //GetComponent<Rigidbody2D>().AddForce(direction * forceAdd);
+        //GetComponent<Rigidbody2D>().velocity = Vector3.ClampMagnitude(GetComponent<Rigidbody2D>().velocity, maxVelocity);
 
         if (GetComponent<PolygonCollider2D>().IsTouchingLayers(Player))
         {

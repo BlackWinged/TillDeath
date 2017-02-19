@@ -27,11 +27,8 @@ public class playerHealthControl : MonoBehaviour
             float buff = GetComponent<healthControl>().getHpForMeter();
             float hpForMeter = GetComponent<healthControl>().getHpForMeter();
             hpMeter.value = Mathf.Lerp(hpMeter.value, buff, 5 * Time.deltaTime);
-            Debug.LogWarning("lastHp: " + lastHp);
-            Debug.LogWarning("hpForMeter: " + GetComponent<healthControl>().getHpForMeter());
             if (Mathf.Round(lastHp * 100) /100 > Mathf.Round(hpForMeter * 100) / 100)
             {
-                Debug.LogWarning("timer reset!");
                 damageTimer = damageCooldown;
             }
             if (damageTimer <= 0)
@@ -41,7 +38,6 @@ public class playerHealthControl : MonoBehaviour
             else
             {
                 damageTimer -= Time.deltaTime;
-            Debug.LogWarning(damageTimer);
             }
             if (GetComponent<healthControl>().getHpForMeter() <= 0)
             {

@@ -41,7 +41,8 @@ public class ShootingGuyController : MonoBehaviour
     {
         Transform shot = (Transform)Instantiate(laser);
         shot.position = transform.position;
-        Vector2 velocity = calculateLeadingVelocity(2);
+        //Vector2 velocity = calculateLeadingVelocity(2);
+        Vector2 velocity = (Vector2)player.position - (Vector2)transform.position;
         shot.rotation = rightfaceRotate(velocity);
         shot.GetComponent<Rigidbody2D>().velocity = velocity * 300;
         shot.GetComponent<Rigidbody2D>().velocity = Vector2.ClampMagnitude(shot.GetComponent<Rigidbody2D>().velocity, maxShotSpeed);
